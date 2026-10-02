@@ -6,8 +6,7 @@
 ---
 ## Tabela de Exercícios e Comprovações
 | 01 | <img width="981" height="1018" alt="Captura de tela 2026-10-01 231312" src="https://github.com/user-attachments/assets/a0c0dc6e-afde-4332-b54e-eb3f04cfb929" /> |
-| 02 |
-) | <img width="970" height="1021" alt="Captura de tela 2026-10-01 231335" src="https://github.com/user-attachments/assets/cd835539-fe47-4daa-a575-58f5c6932e6e" />
+| 02 | <img width="970" height="1021" alt="Captura de tela 2026-10-01 231335" src="https://github.com/user-attachments/assets/cd835539-fe47-4daa-a575-58f5c6932e6e" />
 
 ---
 ## Resumo dos Conceitos Praticados
