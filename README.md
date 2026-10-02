@@ -5,10 +5,12 @@
 * **Disciplina:** [Ciencia da computaçao/ turma1 ]
 ---
 ## Tabela de Exercícios e Comprovações
-| 01 | | [Ver Imagem]("<img width="981" height="1018" alt="Captura de tela 2026-10-01 231312" src="https://github.com/user-attachments/assets/a0c0dc6e-afde-4332-b54e-eb3f04cfb929" />
+| 01 | ("<img width="981" height="1018" alt="Captura de tela 2026-10-01 231312" src="https://github.com/user-attachments/assets/a0c0dc6e-afde-4332-b54e-eb3f04cfb929" />
 ") |
-| 03 | | [Ver Imagem] (<img width="421" height="882" alt="Captura de tela 2026-09-30 203027" src="https://github.com/user-attachments/assets/2343b40a-217c-45e1-9dfa-34a3a1d3867e" />
-) | 
+| 02 |
+ | | [Ver Imagem] (<img width="421" height="882" alt="Captura de tela 2026-09-30 203027" src="https://github.com/user-attachments/assets/2343b40a-217c-45e1-9dfa-34a3a1d3867e" />
+) | <img width="970" height="1021" alt="Captura de tela 2026-10-01 231335" src="https://github.com/user-attachments/assets/cd835539-fe47-4daa-a575-58f5c6932e6e" />
+
 ---
 ## Resumo dos Conceitos Praticados
 Descreva em 1 ou 2 parágrafos o que você aprendeu:
